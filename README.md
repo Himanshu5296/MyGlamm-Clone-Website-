@@ -1,6 +1,6 @@
 # MyGlamm-Clone-Website-
 
-Project: make a clone of https://www.myglamm.com/ site
+Project: Make a clone of https://www.myglamm.com/ site
 
 This is an E-Commerce website which is a direct to consumer beauty brands that offers online beauty products.
 
